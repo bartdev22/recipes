@@ -1,0 +1,11 @@
+h1, h2{
+    color: #f6bf1d;
+    text-align: center;
+}
+
+p, ul{
+    color: #f9db88;
+}
+body{
+    background-color: #1589a2;
+}
